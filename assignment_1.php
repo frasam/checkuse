@@ -13,7 +13,7 @@ foreach($thenumbers as $i){
 echo "<br>";
 echo "<br>";
 echo "<br>";
-//solution to question 2
+//solution to question 2;
 $thesum = array(
     12,
     45,
