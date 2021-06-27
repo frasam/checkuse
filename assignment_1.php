@@ -15,7 +15,7 @@ echo "<br>";
 echo "<br>";
 //solution to question 2;
 $thesum = array(
-    12,
+    13,
     45,
     67,
     56,
