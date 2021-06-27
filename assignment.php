@@ -8,6 +8,7 @@ $arraylength=count($thenumbers);
 for ($i=0; $i < $arraylength; $i++) { 
     echo [$i];
     echo "<br>";
+    echo [$i];
 }
 
 
